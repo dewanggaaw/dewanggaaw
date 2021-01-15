@@ -1,0 +1,27 @@
+.home {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  /* background-color: gray; */
+  width: 100%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.portofolio {
+  padding: 20px;
+}
+
+.summ {
+  padding: 50px;
+}
+
+.profimg {
+  height: 200px;
+  width: 200px;
+  border-radius: 15%;
+}
